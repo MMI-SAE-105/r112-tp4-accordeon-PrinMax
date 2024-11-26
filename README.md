@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Prin
+- prénom : Max
+- URL Netlify : https://poetic-mousse-668a98.netlify.app
 
 # Travail
 
